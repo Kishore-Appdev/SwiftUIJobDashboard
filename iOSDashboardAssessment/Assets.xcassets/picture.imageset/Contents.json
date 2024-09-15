@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-lukas-rychvalsky-670720.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pexels-lukas-rychvalsky-670720 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pexels-lukas-rychvalsky-670720 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
